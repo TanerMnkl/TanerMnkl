@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taner</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanermnkl&label=Profile%20views&color=0e75b6&style=flat" alt="tanermnkl" /> </p>
 
 
 - 📫 How to reach me **themunuklutaner@gmail.com**
@@ -15,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanermnkl&show_icons=true&locale=en" alt="tanermnkl" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanermnkl&" alt="tanermnkl" /></p>
